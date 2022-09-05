@@ -20,7 +20,7 @@ function App() {
           <Question
             key={quest.id}
             question={quest.question}
-            // answer={quest.answer}
+            answer={quest.answer}
           />
         ))}
       </article>
