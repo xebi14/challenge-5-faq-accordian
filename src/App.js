@@ -5,7 +5,7 @@ import desktop from "./images/illustration-woman-online-desktop.svg";
 import Question from "./componentns/Qustion";
 
 function App() {
-  const [quest] = useState(questions);
+  const [quests] = useState(questions);
   return (
     <div className="container">
       <article>
@@ -16,11 +16,11 @@ function App() {
       </article>
       <article>
         <h1>FAQ</h1>
-        {quest.map((quest) => (
+        {quests.map((quest) => (
           <Question
             key={quest.id}
             question={quest.question}
-            answer={quest.answer}
+            // answer={quest.answer}
           />
         ))}
       </article>
