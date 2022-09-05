@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/challenge-5-faq-accordian/static/css/main.5d0a9006.css",
+    "main.js": "/challenge-5-faq-accordian/static/js/main.a4e2daf7.js",
+    "static/media/illustration-woman-online-mobile.svg": "/challenge-5-faq-accordian/static/media/illustration-woman-online-mobile.fe928f9c476ef6d332672b3ab38268fd.svg",
+    "static/media/illustration-woman-online-desktop.svg": "/challenge-5-faq-accordian/static/media/illustration-woman-online-desktop.843eb114c7213a596ee246bf87f27008.svg",
+    "index.html": "/challenge-5-faq-accordian/index.html",
+    "main.5d0a9006.css.map": "/challenge-5-faq-accordian/static/css/main.5d0a9006.css.map",
+    "main.a4e2daf7.js.map": "/challenge-5-faq-accordian/static/js/main.a4e2daf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0a9006.css",
+    "static/js/main.a4e2daf7.js"
+  ]
+}
